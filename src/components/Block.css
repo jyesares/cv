@@ -11,6 +11,8 @@
   text-align: center;
   padding: 15px 30px;
   color: #fff;
+  background-color: #61dafb28;
+  border-bottom: 1px double #61dafb;
 }
 
 .Title {
