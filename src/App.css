@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
+
+.App-logo:hover {
+  animation: App-logo-spin 0.5s linear;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 100px;
+  padding: 20px;
+  color: white;
+  text-align: right;
+}
+
+.Sections {
+  display: flex;
+}
+
+.Sections .Info {
+  width: 33%;
+}
+
+.Sections .Blocks {
+  width: 66%;
+}
+
+.Skills {
+  padding-top: 15px;
+}
+
+.Blocks {
+  display: flex;
+  flex-direction: column;
+  background-color: #282c34;
+  border-top: 1px solid #61dafb;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}

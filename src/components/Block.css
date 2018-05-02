@@ -1,0 +1,53 @@
+.Block {
+  padding: 20px;
+  margin: 2px 0 0;
+  color: #61dafb;
+  border-bottom: 1px dashed #ffa;
+}
+
+.BlockTitle {
+  font-weight: 600;
+  font-size: 32px;
+  text-align: center;
+  padding: 15px 30px;
+  color: #fff;
+}
+
+.Title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 10px;
+}
+
+.Subtitle {
+  color: #61dafb;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 10px;
+}
+
+.Date {
+  color: #ffa;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.Description {
+  margin: 20px 10px 10px;
+}
+
+.Description p {
+  margin: 10px;
+  text-align: left;
+}
+
+.Tech {
+  margin: 20px 10px 10px;
+}
+
+.Tech p {
+  margin: 10px;
+  text-align: right;
+}
