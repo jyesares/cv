@@ -30,11 +30,10 @@
   margin-right: 20px;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 840px) {
   .SkillTitle {
     font-weight: 600;
     font-size: 20px;
-    text-align: left;
     padding: 0 30px;
     text-shadow: 1px 1px #61dafb;
   }

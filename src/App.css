@@ -68,7 +68,7 @@ a {
   color: #000;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 840px) {
   .Sections,
   .Sections .Info,
   .Sections .Blocks {
@@ -85,7 +85,7 @@ a {
   }
 
   .App-header h2 {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .App-header h3 {
