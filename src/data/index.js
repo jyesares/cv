@@ -9,7 +9,7 @@ export default {
           <a href="mailto:javiyesares@gmail.com">javiyesares@gmail.com</a>,
           "envelope"
         ],
-        ["+34 657 090 783", "phone"],
+        [<a href="tel:0034657090783">+34 657 090 783</a>, "phone"],
         [
           <a href="https://github.com/jyesares" target="_blank">
             jyesares
