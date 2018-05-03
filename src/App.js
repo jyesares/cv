@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import data from "./data";
 
@@ -29,6 +28,7 @@ class App extends Component {
             <div className="BlockTitle">Experience</div>
             {data.blocks.experience.map((block, i) => (
               <Block
+                key={i}
                 title={block.title}
                 date={block.date}
                 description={block.description}
@@ -38,6 +38,7 @@ class App extends Component {
             <div className="BlockTitle">Education</div>
             {data.blocks.education.map((block, i) => (
               <Block
+                key={i}
                 title={block.title}
                 subtitle={block.subtitle}
                 date={block.date}

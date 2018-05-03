@@ -10,7 +10,7 @@ export default ({ title, children }) => (
         <li key={i} className="ListElement">
           {child.length === 2 ? (
             <div className="Icon">
-              <img src={`${child[1]}.svg`} />
+              <img alt={child[1]} src={`${child[1]}.svg`} />
               {child[0]}
             </div>
           ) : (
