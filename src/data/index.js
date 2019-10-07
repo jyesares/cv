@@ -94,7 +94,7 @@ export default {
         ]
       },
       {
-        title: "JAVA DEVELOPER - Capgemini (GasNatural Fenosa)",
+        title: "JAVA DEVELOPER - Capgemini (Gas Natural Fenosa)",
         date: "March 2015 - December 2015",
         description: [
           "Developing a virtual branch office for Gas Natural as J2EEdeveloper with several frameworks.",
