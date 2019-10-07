@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "ghpages": "gh-pages -d build",
-    "deploy": "npm run build && npm run ghpages"
+    "deploy": "gh-pages -d build",
+    "publish-demo": "npm run build && npm run deploy"
   }
 }
