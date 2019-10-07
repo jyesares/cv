@@ -53,8 +53,8 @@ export default {
         "NodeJS",
         "Loopback",
         "Express",
-        "GraphQL",
         "ReactJS",
+        "NextJS",
         "Jest",
         "Mocha / Chai",
         "Jenkins",
@@ -77,15 +77,15 @@ export default {
   blocks: {
     experience: [
       {
-        title: "NODEJS - REACTJS DEVELOPER - Altran (AXAGroup Solutions)",
+        title: "NODEJS - REACTJS DEVELOPER - Altran (AXA Group Operations)",
         date: "December 2015 - Currently",
         description: [
-          "Building APIs with NodeJS (Express, Loopback, GraphQL).",
+          "Building APIs with NodeJS (Express, Loopback, NextJS).",
           "Making APPs with ReactJS (Redux, GraphQL)",
           "Working with agile software development and Continuous Integration. Automated build, test and deployment."
         ],
         techs: [
-          "Technologies: JavaScript, NodeJS, ReactJS, GraphQL",
+          "Technologies: JavaScript, NodeJS, ReactJS, NextJS, GraphQL",
           "Frameworks: Loopback, Apollo-GraphQL",
           "Testing: Jest, Mocha, Chai",
           "DevOps: Docker, Docker-Compose, OpenShift, Jenkins",
