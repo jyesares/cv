@@ -85,8 +85,8 @@ export default {
           "Working with agile software development and Continuous Integration. Automated build, test and deployment."
         ],
         techs: [
-          "Technologies: JavaScript, NodeJS, ReactJS, NextJS, GraphQL",
-          "Frameworks: Loopback, Apollo-GraphQL",
+          "Technologies: JavaScript, NodeJS, ReactJS, GraphQL",
+          "Frameworks: Loopback, NextJS, Apollo-GraphQL",
           "Testing: Jest, Mocha, Chai",
           "DevOps: Docker, Docker-Compose, OpenShift, Jenkins",
           "Version Control: Github, Git-flow",
