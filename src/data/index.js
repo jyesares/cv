@@ -81,12 +81,12 @@ export default {
         date: "December 2015 - Currently",
         description: [
           "Building APIs with NodeJS (Express, Loopback, NextJS).",
-          "Making APPs with ReactJS (Redux, GraphQL)",
+          "Making APPs with ReactJS (Redux)",
           "Working with agile software development and Continuous Integration. Automated build, test and deployment."
         ],
         techs: [
-          "Technologies: JavaScript, NodeJS, ReactJS, GraphQL",
-          "Frameworks: Loopback, NextJS, Apollo-GraphQL",
+          "Technologies: JavaScript, NodeJS, ReactJS",
+          "Frameworks: Loopback, NextJS",
           "Testing: Jest, Mocha, Chai",
           "DevOps: Docker, Docker-Compose, OpenShift, Jenkins",
           "Version Control: Github, Git-flow",
