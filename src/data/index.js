@@ -82,7 +82,7 @@ export default {
         description: [
           "Building job offer platform with an integrated search engine (AXA Jobs)",
           "Working in a fraud detection solution (Sherlock)",
-          "Building a news portal with (nextjs/reactjs/nodejs),
+          "Building a news portal with (nextjs/reactjs/nodejs)",
           "Working with agile software development and Continuous Integration. Automated build, test and deployment."
         ],
         techs: [
