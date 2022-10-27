@@ -77,8 +77,27 @@ export default {
   blocks: {
     experience: [
       {
+        title: "SOFTWARE ENGINEER - AXA Group Operations",
+        date: "January 2020 - January 2022",
+        description: [
+          "Building job offer platform with an integrated search engine (AXA Jobs)",
+          "Working in a fraud detection solution (Sherlock)",
+          "Building a news portal with (nextjs/reactjs/nodejs),
+          "Working with agile software development and Continuous Integration. Automated build, test and deployment."
+        ],
+        techs: [
+          "Technologies: Javascript, NodeJS, ReactJS",
+          "Frameworks: Nextjs",
+          "Testing: Jest",
+          "Libraries: elasticlunr",
+          "DevOps: Docker, Docker-Compose, OpenShift, Jenkins",
+          "Version Control: Github, Git-flow",
+          "Agile Software: Jira, Confluence"
+        ]
+      },
+      {
         title: "NODEJS - REACTJS DEVELOPER - Altran (AXA Group Operations)",
-        date: "December 2015 - Currently",
+        date: "December 2015 - January 2020",
         description: [
           "Building APIs with NodeJS (Express, Loopback, NextJS).",
           "Making APPs with ReactJS (Redux)",
